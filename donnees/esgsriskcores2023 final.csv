@@ -1,0 +1,41 @@
+Tablo 1
+Symbol;Name;Address;Sector;Total ESG Risk score;Environment Risk Score;Governance Risk Score;Social Risk Score;Controversy Level;Controversy Score;ESG Risk Percentile;ESG Risk Level
+MCHP;Microchip Technology Inc;"2355 West Chandler Boulevard
+Chandler, AZ 85224-6199
+United States";Technology;31.8;15.3;7.4;9.2;Low Controversy Level;1;75th percentile;High
+NVDA;Nvidia Corp;"2788 San Tomas Expressway
+Santa Clara, CA 95051
+United States";Technology;13.6;2.3;6.3;4.9;Moderate Controversy Level;2;8th percentile;Low
+VRSN;Verisign Inc;"12061 Bluemont Way
+Reston, VA 20190
+United States";Technology;21.3;4.7;5.8;10.8;Low Controversy Level;1;33rd percentile;Medium
+COP;Conocophillips;"925 North Eldridge Parkway
+Houston, TX 77079-2703
+United States";Energy;33.9;17.6;8.3;8.1;Moderate Controversy Level;2;81st percentile;High
+KMI;Kinder Morgan, Inc.;"1001 Louisiana Street
+Suite 1000
+Houston, TX 77002
+United States";Energy;19;8.3;3.5;7.2;Moderate Controversy Level;2;24th percentile;Low
+OKE;Oneok, Inc.;"100 West Fifth Street
+Tulsa, OK 74103
+United States";Energy;25.1;10.8;3.3;11;Low Controversy Level;1;50th percentile;Medium
+LLY;Eli Lilly & Co.;"Lilly Corporate Center
+Indianapolis, IN 46285
+United States";Healthcare;24.3;2.5;9.1;12.6;Moderate Controversy Level;2;46th percentile;Medium
+UNH;Unitedhealth Group Incorporated;"UnitedHealth Group Center
+9900 Bren Road East
+Minnetonka, MN 55343
+United States";Healthcare;15.3;0;5.6;9.7;Significant Controversy Level;3;12th percentile;Low
+UHS;Universal Health Services, Inc. Class B;"Universal Corporate Center
+367 South Gulph Road PO Box 61558
+King of Prussia, PA 19406-0958
+United States";Healthcare;33;3.7;8.6;20.7;Significant Controversy Level;3;78th percentile;High
+V;Visa Inc.;"PO Box 8999
+San Francisco, CA 94128-8999
+United States";Financial Services;16.7;1.8;6.7;8.2;Significant Controversy Level;3;16th percentile;Low
+GS;Goldman Sachs Group Inc.;"200 West Street
+New York, NY 10282
+United States";Financial Services;25.5;0.9;11.8;12.8;Moderate Controversy Level;2;51st percentile;Medium
+WFC;Wells Fargo & Co.;"420 Montgomery Street
+San Francisco, CA 94104
+United States";Financial Services;36.2;2;19.4;14.8;Severe Controversy Level;5;87th percentile;High
